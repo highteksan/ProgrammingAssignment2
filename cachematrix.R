@@ -2,6 +2,7 @@
 ## Jim Broiles
 ## Put comments here that give an overall description of what your
 ## functions do
+### testing the rstudio ability to commit and push
 
 ## Write a short comment describing this function
 
